@@ -211,43 +211,43 @@ namespace C43_G03_C_04
 
 
             #region Q12
-            Console.Write("Enter the First number : ");
-            double.TryParse(Console.ReadLine(), out double num1);
-            Console.Write("Enter the Second number : ");
-            double.TryParse(Console.ReadLine(), out double num2);
-            Console.Write("Enter the operation (+, -, *, /): ");
-            char.TryParse(Console.ReadLine(), out char operation);
+            //Console.Write("Enter the First number : ");
+            //double.TryParse(Console.ReadLine(), out double num1);
+            //Console.Write("Enter the Second number : ");
+            //double.TryParse(Console.ReadLine(), out double num2);
+            //Console.Write("Enter the operation (+, -, *, /): ");
+            //char.TryParse(Console.ReadLine(), out char operation);
 
-            double result = 0;
-            bool validOperation = true;
+            //double result = 0;
+            //bool validOperation = true;
 
-            switch (operation)
-            {
-                case '+':
-                    result = num1 + num2;
-                    break;
-                case '-':
-                    result = num1 - num2;
-                    break;
-                case '*':
-                    result = num1 * num2;
-                    break;
-                case '/':
-                    if (num2 != 0)
-                        result = num1 / num2;
-                    else
-                    {
-                        Console.WriteLine("Error: Division by zero.");
-                        validOperation = false;
-                    }
-                    break;
-                default:
-                    Console.WriteLine("Invalid operation.");
-                    validOperation = false;
-                    break;
-            }
+            //switch (operation)
+            //{
+            //    case '+':
+            //        result = num1 + num2;
+            //        break;
+            //    case '-':
+            //        result = num1 - num2;
+            //        break;
+            //    case '*':
+            //        result = num1 * num2;
+            //        break;
+            //    case '/':
+            //        if (num2 != 0)
+            //            result = num1 / num2;
+            //        else
+            //        {
+            //            Console.WriteLine("Error: Division by zero.");
+            //            validOperation = false;
+            //        }
+            //        break;
+            //    default:
+            //        Console.WriteLine("Invalid operation.");
+            //        validOperation = false;
+            //        break;
+            //}
 
-            if (validOperation) Console.WriteLine($"Result: {result}");
+            //if (validOperation) Console.WriteLine($"Result: {result}");
             #endregion
 
 
