@@ -308,6 +308,24 @@ namespace C43_G03_C_04
             #endregion
 
 
+
+            #region Q16
+
+            //Console.Write("Enter a number to convert: ");
+            //int.TryParse(Console.ReadLine(), out int number);
+
+            //string binary = "";
+            //int originalNumber = number; 
+
+            //while (number > 0)
+            //{
+            //    binary = (number % 2) + binary; 
+            //    number = number / 2;  
+            //}
+
+            //Console.WriteLine($"The Binary of {originalNumber} is {binary}.");
+
+            #endregion
         }
     }
  }
