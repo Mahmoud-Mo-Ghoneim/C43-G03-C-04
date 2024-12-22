@@ -121,6 +121,20 @@
 
             #endregion
 
+
+
+            #region Q08
+            //Console.Write("Enter the number: ");
+            //int.TryParse(Console.ReadLine(), out int number);
+
+            //for (int i = 1; i <= number; i++)
+            //{
+            //    if (i % 2 == 0) Console.Write($"{i} ");
+
+            //}
+
+            #endregion
+
         }
     }
  }
