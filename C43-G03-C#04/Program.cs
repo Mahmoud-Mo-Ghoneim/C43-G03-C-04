@@ -101,13 +101,26 @@
             //Console.Write("Enter the number: ");
             //int.TryParse(Console.ReadLine(), out int number);
 
-            //for (int i = 1; i < number + 1; i++) {
+            //for (int i = 1; i < number + 1; i++)
+            //{
             //    Console.WriteLine(i);
-            
-            }
+            //}
+            #endregion
+
+
+
+            #region Q07
+            //Console.Write("Enter the number: ");
+            //int.TryParse(Console.ReadLine(), out int number);
+
+            //for (int i = 1; i <= 12; i++)
+            //{
+            //    int x = number * i;
+            //    Console.WriteLine(x);
+            //}
 
             #endregion
 
         }
     }
-}
+ }
