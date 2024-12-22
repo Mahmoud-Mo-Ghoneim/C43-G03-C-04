@@ -79,6 +79,24 @@
             #endregion
 
 
+            #region Q05
+            //Console.Write("Enter the character: ");
+            //char.TryParse(Console.ReadLine(), out char input);
+
+            //if (input == 'a' || input == 'e' || input == 'i' || input == 'o' || input == 'u')
+            //{
+            //    Console.WriteLine("Vowel");
+            //}
+            //else if (char.IsLetter(input))
+            //{
+            //    Console.WriteLine("Consonant");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Invalid input");
+            //}
+            #endregion
+
         }
     }
 }
