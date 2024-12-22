@@ -261,6 +261,20 @@ namespace C43_G03_C_04
 
             #endregion
 
+
+            #region Q14
+            //Console.Write("Enter an integer: ");
+            //int.TryParse(Console.ReadLine(), out int number);
+            //int reversed = 0;
+            //while (number != 0)
+            //{
+            //    int digit = number % 10;
+            //    reversed = reversed * 10 + digit;
+            //    number /= 10;
+            //}
+            //Console.WriteLine($"Reversed number: {reversed}");
+            #endregion
+
         }
     }
  }
