@@ -24,6 +24,7 @@ namespace C43_G03_C_04
 
             #endregion
 
+
             #region Q02
             //Console.Write("Enter the number: ");
             //int.TryParse(Console.ReadLine(), out int number);
@@ -65,6 +66,7 @@ namespace C43_G03_C_04
 
             #endregion
 
+
             #region Q04
             //Console.Write("Enter the Number: ");
             //int.TryParse(Console.ReadLine(), out int number);
@@ -99,6 +101,7 @@ namespace C43_G03_C_04
             //}
             #endregion
 
+
             #region Q06
             //Console.Write("Enter the number: ");
             //int.TryParse(Console.ReadLine(), out int number);
@@ -108,7 +111,6 @@ namespace C43_G03_C_04
             //    Console.WriteLine(i);
             //}
             #endregion
-
 
 
             #region Q07
@@ -122,7 +124,6 @@ namespace C43_G03_C_04
             //}
 
             #endregion
-
 
 
             #region Q08
@@ -250,6 +251,7 @@ namespace C43_G03_C_04
             //if (validOperation) Console.WriteLine($"Result: {result}");
             #endregion
 
+
             #region Q13
             //Console.Write("Enter a string: ");
             //string input = Console.ReadLine();
@@ -308,7 +310,6 @@ namespace C43_G03_C_04
             #endregion
 
 
-
             #region Q16
 
             //Console.Write("Enter a number to convert: ");
@@ -326,6 +327,8 @@ namespace C43_G03_C_04
             //Console.WriteLine($"The Binary of {originalNumber} is {binary}.");
 
             #endregion
+
+
         }
     }
  }
