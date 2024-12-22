@@ -275,6 +275,39 @@ namespace C43_G03_C_04
             //Console.WriteLine($"Reversed number: {reversed}");
             #endregion
 
+
+            #region Q15
+            //Console.Write("Enter starting number of range: ");
+            //int.TryParse(Console.ReadLine(), out int numb1);
+
+            //Console.Write("Enter ending number of range: ");
+            //int.TryParse(Console.ReadLine(), out int numb2);
+
+            //Console.WriteLine($"The prime numbers between {numb1} and {numb2} are:");
+
+
+            //for (int i = numb1; i <= numb2; i++)
+            //{
+            //    if (i <= 1) continue;
+
+            //    bool isPrime = true;
+            //    for (int j = 2; j <= Math.Sqrt(i); j++)
+            //    {
+            //        if (i % j == 0)
+            //        {
+            //            isPrime = false;
+            //            break;
+            //        }
+            //    }
+
+            //    if (isPrime)
+            //        Console.Write($"{i} ");
+            //}
+            //Console.WriteLine();
+
+            #endregion
+
+
         }
     }
  }
