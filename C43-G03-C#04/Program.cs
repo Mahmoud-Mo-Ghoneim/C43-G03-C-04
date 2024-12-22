@@ -23,21 +23,21 @@
             #endregion
 
             #region Q02
-            Console.Write("Enter the number: ");
-            int.TryParse(Console.ReadLine(), out int number);
+            //Console.Write("Enter the number: ");
+            //int.TryParse(Console.ReadLine(), out int number);
 
-            if (number < 0)
-            {
-                Console.WriteLine("Negative");
-            }
-            else if (number > 0)
-            {
-                Console.WriteLine("Positive");
-            }
-            else 
-            { 
-                Console.WriteLine("Zero");
-            }
+            //if (number < 0)
+            //{
+            //    Console.WriteLine("Negative");
+            //}
+            //else if (number > 0)
+            //{
+            //    Console.WriteLine("Positive");
+            //}
+            //else 
+            //{ 
+            //    Console.WriteLine("Zero");
+            //}
 
             #endregion
         }
