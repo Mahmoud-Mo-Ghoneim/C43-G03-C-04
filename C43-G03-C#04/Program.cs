@@ -40,6 +40,30 @@
             //}
 
             #endregion
+
+
+            #region Q03
+            //Console.Write("Enter the First Number: ");
+            //int.TryParse(Console.ReadLine(), out int numb1);
+            //Console.Write("Enter the Second Number: ");
+            //int.TryParse(Console.ReadLine(), out int numb2);
+            //Console.Write("Enter the Third Number: ");
+            //int.TryParse(Console.ReadLine(), out int numb3);
+
+            //int max = numb1;
+            //if (numb2 > max) max = numb2;
+            //if (numb3 > max) max = numb3;
+
+            //int min = numb1;
+            //if (numb2 < min) min = numb2;
+            //if (numb3 < min) min = numb3;
+
+            //Console.WriteLine($"Max element = {max}");
+            //Console.WriteLine($"Min element = {min}");
+
+            #endregion
+
+
         }
     }
 }
