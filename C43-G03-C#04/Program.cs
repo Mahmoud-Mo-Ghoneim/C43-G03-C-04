@@ -250,6 +250,16 @@ namespace C43_G03_C_04
             //if (validOperation) Console.WriteLine($"Result: {result}");
             #endregion
 
+            #region Q13
+            //Console.Write("Enter a string: ");
+            //string input = Console.ReadLine();
+
+            //char[] charArray = input.ToCharArray();
+            //Array.Reverse(charArray);
+            //string output = new string(charArray);
+            //Console.WriteLine($"Reversed string: {output}");
+
+            #endregion
 
         }
     }
