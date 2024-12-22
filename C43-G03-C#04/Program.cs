@@ -152,6 +152,34 @@ namespace C43_G03_C_04
             //Console.WriteLine(result);
             #endregion
 
+
+            #region Q10
+            //Console.Write("Enter marks for subject 1: ");
+            //int.TryParse(Console.ReadLine(), out int subject1);
+
+            //Console.Write("Enter marks for subject 2: ");
+            //int.TryParse(Console.ReadLine(), out int subject2);
+
+            //Console.Write("Enter marks for subject 3: ");
+            //int.TryParse(Console.ReadLine(), out int subject3);
+
+            //Console.Write("Enter marks for subject 4: ");
+            //int.TryParse(Console.ReadLine(), out int subject4);
+
+            //Console.Write("Enter marks for subject 5: ");
+            //int.TryParse(Console.ReadLine(), out int subject5);
+
+            //int total = subject1 + subject2 + subject3 + subject4 + subject5;
+            //double average = total / 5.0;
+            //double percentage = (total / 500.0) * 100;
+
+            //Console.WriteLine($"Total marks = {total}");
+            //Console.WriteLine($"Average marks = {average}");
+            //Console.WriteLine($"Percentage = {percentage}");
+
+            #endregion
+
+
         }
     }
  }
