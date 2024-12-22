@@ -1,4 +1,6 @@
-﻿namespace C43_G03_C_04
+﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+
+namespace C43_G03_C_04
 {
     internal class Program
     {
@@ -133,6 +135,21 @@
 
             //}
 
+            #endregion
+
+
+            #region Q09
+            //Console.Write("Enter the base number: ");
+            //int.TryParse(Console.ReadLine(), out int baseNumber);
+            //Console.Write("Enter the exponent number: ");
+            //int.TryParse(Console.ReadLine(), out int exponent);
+            //int result = 1;
+
+            //for (int i = 1; i <= exponent; i++)
+            //{
+            //    result *= baseNumber;
+            //}
+            //Console.WriteLine(result);
             #endregion
 
         }
