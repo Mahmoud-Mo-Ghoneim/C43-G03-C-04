@@ -180,6 +180,35 @@ namespace C43_G03_C_04
             #endregion
 
 
+            #region Q11
+            //Console.Write("Enter the month number (1-12): ");
+            //int.TryParse(Console.ReadLine(), out int monthNumber);
+
+            //int daysInMonth;
+
+            //if (monthNumber == 1 || monthNumber == 3 || monthNumber == 5 || monthNumber == 7 ||
+            //    monthNumber == 8 || monthNumber == 10 || monthNumber == 12)
+            //{
+            //    daysInMonth = 31;
+            //}
+            //else if (monthNumber == 4 || monthNumber == 6 || monthNumber == 9 || monthNumber == 11)
+            //{
+            //    daysInMonth = 30;
+            //}
+            //else if (monthNumber == 2)
+            //{
+            //    daysInMonth = 28;
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Invalid month number.");
+            //    return;
+            //}
+
+            //Console.WriteLine($"Days in Month: {daysInMonth}");
+
+            #endregion
+
         }
     }
  }
