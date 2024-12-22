@@ -63,6 +63,21 @@
 
             #endregion
 
+            #region Q04
+            //Console.Write("Enter the Number: ");
+            //int.TryParse(Console.ReadLine(), out int number);
+
+            //if (number % 2 == 0 && number != 0) {
+            //    Console.WriteLine("Even");
+            //} else if (number == 0)
+            //{
+            //    Console.WriteLine("Your Number is Zero");
+            //} else
+            //{
+            //    Console.WriteLine("odd");
+            //}
+            #endregion
+
 
         }
     }
